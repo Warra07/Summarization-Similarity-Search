@@ -2,7 +2,7 @@ This is the Data science project submitted by : Wacim Belahcel / Tomi Cottrelle 
 
 
 This folders includes 5 files:
-- Belahcel_Cottrelle_Bouraï.pdf : the final project report
+- report.pdf : the final project report
 - Product Quantization encoder : a notebook containing the summarization submitted solution
 - ISAX similarity search : a notebook containing the similarity search solution
 - Reduction with seismic/synthetic test : a notebook containing summarization methods used for comparison (Wavelets, PCA, PAA)
