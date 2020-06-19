@@ -1,4 +1,4 @@
-This is the Data science project submitted by : Wacim Belahcel / Tomi Cottrelle / Assia Bourai
+This is the Data science project submitted by : Wacim Belahcel
 
 
 This folders includes 5 files:
